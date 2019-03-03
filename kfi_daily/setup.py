@@ -11,6 +11,5 @@ setup(name='kfi_daily',
       install_requires=[
           'openpyxl',
           'requests',
-          'gsw==3.0.6',
       ],
       zip_safe=False)
