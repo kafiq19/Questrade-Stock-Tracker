@@ -1,0 +1,20 @@
+KFI Daily V2:
+- put on github with documentation + vision for future development
+
+current: able to connect multiple investment vehicle profiles (ability to connect anything with API:QT,BTC..), provides goal on ROI and current progress, provides per equity status (daily ROI, total ROI)
+
+todo: implement web interface, fix QT access token, enable real time price tracking of equities and alerts, simple dashboard view of portfolio, portfolio management breakdown
+- automate the KFI monthly form
+- create documentation, vision+visuals and upload to github
+
+SW Dev:
+- either leverage github for development or hire someone to begin on the webdev using django
+- create a dashboard type of system
+
+Wants:
+- web interface
+- real time tracking: impact on balance, analytics, trading
+- news: company, market, technical analysis
+- one place for everything
+- automatic run for history
+- one click interface, easy user interface
